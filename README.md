@@ -1,7 +1,7 @@
 ### Opa, eu sou o França 👋🏼🇫🇷
 
 
-Só uma pequena parte do show:
+Só uma parte do show:
 
 - 💪🏽 Trabalho em mim mesmo e em minha marca pessoal
 - 📚 Estudando na trybe
