@@ -1,5 +1,5 @@
 ### Opa, eu sou o França 👋🏼🇫🇷
-<img align="right" width="150" height="150" src="/teteusAraujo/teteusAraujo/raw/main/naruto.gif?raw=true" style="max-width: 100%;">
+<img align="right" width="150" height="150" src="./naruto.gif?raw=true" style="max-width: 100%;">
 
 Só uma parte do show:
 
