@@ -1,4 +1,4 @@
-<img align="right" width="350" height="200" src="./logo/LOGO MARCA D'AGUA.png" style="max-width: 100%;">
+<img align="right" width="390" height="220" src="./logo/LOGO MARCA D'AGUA.png" style="max-width: 100%;">
 ### Opa, eu sou o França 👋🏼🇫🇷
 
 Só uma parte do show:
