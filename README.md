@@ -1,5 +1,5 @@
+<img align="right" width="350" height="200" src="./logo/LOGO MARCA D'AGUA.png" style="max-width: 100%;">
 ### Opa, eu sou o França 👋🏼🇫🇷
-<img align="right" width="150" height="150" src="./naruto.gif?raw=true" style="max-width: 100%;">
 
 Só uma parte do show:
 
