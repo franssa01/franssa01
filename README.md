@@ -5,7 +5,7 @@
 Só uma parte do show:
 
 - 💪🏽 Trabalho em mim mesmo e em minha marca pessoal
-- 📚 Estudando na trybe
+- 📚 Compartilhando meu conhecimento
 - 🌎 Procurando colaborar em projetos que me despertem interesse
 - 💬 Pergunte-me sobre qualquer coisa, mas lá no canal do YT
 - 🔍 Como me encontrar: Matheus França / @Franssa01
