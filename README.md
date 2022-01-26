@@ -1,14 +1,14 @@
 <img align="right" width="390" height="220" src="./logo/LOGO MARCA D'AGUA.png" style="max-width: 100%;">
 
-### Opa, eu sou o França 👋🏼🇫🇷
+### Hi, I'm França 👋🏼🇫🇷
 
-Só uma parte do show:
+I will be the GOAT
 
-- 💪🏽 Trabalho em mim mesmo e em minha marca pessoal
-- 📚 Compartilhando meu conhecimento
-- 🌎 Procurando colaborar em projetos que me despertem interesse
-- 💬 Pergunte-me sobre qualquer coisa, mas lá no canal do YT
-- 🔍 Como me encontrar: Matheus França / @Franssa01
+- 💪🏽 working on me and my personal brand
+- 📚 sharing knowledge
+- 🌎 looking for jobs and projects
+- 💬 YT Channel → Matheus França
+- 🔍 How to find me: Matheus França / @Franssa01
 
 <div align="center">
   <a href="https://github.com/franssa01">
