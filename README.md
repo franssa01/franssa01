@@ -31,7 +31,6 @@ I will be the GOAT
   <a href="https://www.youtube.com/channel/UC6Lu7pztsUGTo-Md7FVtIFg" target="_blank">                                                                          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/franssa01/" target="_blank">                                                                                               <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-fran%C3%A7a-b0961a222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "contato.franssa01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div
     
 ![Snake animation](https://github.com/franssa01/franssa01/blob/output/github-contribution-grid-snake.svg)
