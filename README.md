@@ -4,7 +4,7 @@
 
 I will be the GOAT
 
-- 💪🏽 working on me and my personal brand
+- 💪🏽 working on me and in my personal brand
 - 📚 sharing knowledge
 - 🌎 looking for jobs and projects
 - 💬 YT Channel → Matheus França
