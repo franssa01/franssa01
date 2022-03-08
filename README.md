@@ -17,7 +17,7 @@ I will be the GOAT
 </div>
   
  <div>
-   <h2> 🖥 &nbsp;Languages & Social Media</h2>
+   <h2>🖥 &nbsp;Languages & Social Media</h2>
   
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-flat&logo=Python)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
